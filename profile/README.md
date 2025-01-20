@@ -8,6 +8,8 @@ In the fast-paced world of streaming entertainment, users are constantly searchi
 
 The **4Movies APK** is an Android application that allows users to stream movies, TV shows, and series from various genres directly to their mobile devices. Unlike popular streaming services like Netflix, Hulu, and Amazon Prime, 4Movies APK offers free access to a large collection of movies and TV shows, making it an appealing alternative for those who are looking for free content.
 
+![Image](https://github.com/user-attachments/assets/c466532f-e7c2-4a17-94df-d85552ba85f5)
+
 The app doesn’t host any content itself but aggregates links from third-party sources, providing users with a wide variety of entertainment options. Whether you’re into action, comedy, drama, or horror, 4Movies APK has something for everyone.
 
 ## Features of 4Movies APK
